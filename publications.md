@@ -15,3 +15,17 @@ title: Publications
 
 * J. Fan, P. Jaiswal, and J. S. C. Leung, [Jet Observables and Stops at 100 TeV Collider](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.036017), Phys. Rev. D 96, no. 3, 036017 (2017), arXiv: [1704.03014](https://arxiv.org/abs/1704.03014).
 
+<br>
+<center>
+<hr>
+<h1> Theses </h1>
+<br>
+</center>
+
+* Ph.D. thesis, [Dark Matter Searches in the Crescendo of the 21st Century Experiments](../assets/PhDThesis.pdf), advisor: Jiji Fan.
+
+* M.Phil. thesis, [Topics in Cosmic Ray Measurement and Particle Detectors Development](../assets/MasterThesis.pdf), advisor: Ming Chung Chu.
+
+* Senior thesis, [Rabi Oscillation and State Construction in Quantum Bouncing Ball System](../assets/SeniorThesis.pdf), advisor: Chi Kwong Law.
+
+* (Junior) CERN thesis, [Cathode Strip Chambers Production for CMS Endcaps](../assets/CERNThesis.pdf), advisor: Armando Lanaro.

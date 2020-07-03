@@ -11,17 +11,17 @@ title: Vitae
 ### May 2020
 
 <b>Brown University</b>, PhD in Physics.  (GPA 4.0) <br>
-<i>Thesis:</i> Dark Matter Searches in the Crescendo of the 21st Century Experiments <br>
+<i>Thesis:</i> [Dark Matter Searches in the Crescendo of the 21st Century Experiments](../assets/PhDThesis.pdf) <br>
 Advisor: JiJi Fan
 
 ### May 2014
 <b>Chinese University of Hong Kong</b>, MPhil in Physics. (GPA 3.6) <br>
-<i>Thesis:</i> Topics in Cosmic Ray Measurement and Particle Detectors Development <br>
+<i>Thesis:</i> [Topics in Cosmic Ray Measurement and Particle Detectors Development](../assets/MasterThesis.pdf) <br>
 <i>Advisor:</i> Ming Chung Chu
 
 ### May 2012
 <b>Chinese University of Hong Kong</b>, BSc in Physics, minor in French. (GPA 3.6) <br>
-<i>Thesis:</i> Rabi Oscillation and State Construction in Quantum Bouncing Ball <br>
+<i>Thesis:</i> [Rabi Oscillation and State Construction in Quantum Bouncing Ball System](../assets/SeniorThesis.pdf) <br>
 <i>Advisor:</i> Chi Kwong Law
 <br>
 <hr><hr>
@@ -54,6 +54,7 @@ Simulated the system using Mathematica.
 <b>European Organization for Nuclear Research (CERN)</b> <br>
 Became the one of the first two students representing Hong Kong to participate in research in CERN. 
 Mechanically and electronically assembled of CMS Cathode Strip Chambers in ME4/2 site.
+Project report is available [HERE](../assets/CERNThesis.pdf).
 <br>
 <hr><hr>
 
