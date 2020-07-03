@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="page">
+  <center>
+    <h1 class="page-title">{{ page.title }}</h1><br>
+    {% if {{page.contacts}} %}
+	   {% for contact in page.contacts %}
+	     {{contact}}
+	   {% endfor %}<br>
+	{% endif %}
+    <img src="{{page.protrait_loc}}" alt="{{page.protrait_name}}" width="{{page.img_width}}" height="{{page.img_height}}" >
+  </center>
+  {{ content }}
+  
+  {% if {{page.photo_courtesy}} %}
+    <center>
+      <br><br><br> <p style="font-size: 12px"> Photo courtesy by {{page.photo_courtesy}}. </p>
+    </center>
+  {% endif %}
+</div>

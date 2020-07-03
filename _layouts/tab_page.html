@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="page">
+  <center>
+    <h1 class="page-title">{{ page.title }}</h1><br>
+	
+    <table width="{{page.tab_width}}">
+	  {% for col in {{page.cols_list}} %}
+	    <tr>
+		  <div style="max-width:{{page.tab_width}}px">
+	        <img src={{col.img_loc}} alt="{{col.img_name}}"><br>
+		    <h3> {{col.title}} </h3>
+		    <b> {{col.subtitle}} </b><br><br>
+		
+		    <p style="text-align:left">{{col.content}}</p>
+			<br><hr><br>
+		  </div>
+		</tr>
+	  {% endfor %}
+  </table>
+  </center>
+  {{ content }}
+  
+</div>

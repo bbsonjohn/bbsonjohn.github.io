@@ -1,11 +1,20 @@
 ---
-layout: page
+layout: img_page
 title: About Me 
+protrait_loc: ../assets/me.jpg
+protrait_name: my_protrait
+img_height: 540
+img_width: 460
+photo_courtesy: Small Frye
 ---
-Hi, I am Martin Kwok. 
 
-Outside of Physics, I enjoy sports in general, in particular, badminton and bouldering.
-I often have some interesting thoughts on the physics of badminton and bouldering,
-so I will occasionally shares my thoughts here as well.
 
-Here's my github page: [GitHub](https://github.com/kakwok)
+
+I am a physicist, graduated with a Ph.D. in physics from Brown University. 
+My expertise is in theory modeling, data analysis and hypothesis testing. 
+I have experience in mathematical derivations, statistical analyses, 
+working with big data, and programming. 
+I am interested in applying my skills to find solutions in a business setting.
+
+My github page: [GitHub](https://github.com/bbsonjohn) <br>
+My email: [shing_chau_leung@alumni.brown.edu](mailto:shing_chau_leung@alumni.brown.edu)

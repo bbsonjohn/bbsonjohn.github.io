@@ -2,7 +2,15 @@
 layout: default
 title: Home
 ---
+<center>
+<img src="../assets/scene.jpg" alt="my_scene">
+<h2> John Shing Chau Leung </h2>
+<i>Find me:</i><br>
+Email to <a href="mailto:shing_chau_leung@alumni.brown.edu">shing_chau_leung@alumni.brown.edu</a><br>
+<a href="https://www.linkedin.com/in/john-shing-chau-leung-7b533967/">My LinkedIn Profile</a>
+</center>
 
+{% comment %}
 <div class="posts">
   {% for post in site.posts limit:5%}
   <div class="post">
@@ -17,7 +25,8 @@ title: Home
     {{ post.content }}
   </div>
   {% endfor %}
-</div>
+</div> 
+
 
 <div class="pagination">
   {% if paginator.next_page %}
@@ -35,4 +44,4 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
-
+{% endcomment %}
