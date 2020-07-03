@@ -1,11 +1,10 @@
 ---
 layout: img_page
 title: About Me 
-protrait_loc: ../assets/me.jpg
+protrait_loc: ../assets/me2.jpg
 protrait_name: my_protrait
 img_height: 540
 img_width: 460
-photo_courtesy: Small Frye
 ---
 
 
