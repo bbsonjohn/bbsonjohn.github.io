@@ -12,7 +12,7 @@ title: Vitae
 
 <b>Brown University</b>, PhD in Physics.  (GPA 4.0) <br>
 <i>Thesis:</i> [Dark Matter Searches in the Crescendo of the 21st Century Experiments](../assets/PhDThesis.pdf) <br>
-Advisor: JiJi Fan
+<i>Advisor:</i> JiJi Fan
 
 ### May 2014
 <b>Chinese University of Hong Kong</b>, MPhil in Physics. (GPA 3.6) <br>
