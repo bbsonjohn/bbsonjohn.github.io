@@ -41,7 +41,7 @@ studies on the market and securitized products (utilizing Python, R, and Jupyter
 Python visualization libraries, Excel and PowerPoint.
 
 ### Aug 2020 – Mar 2021
-#### Postdoctoral Research Associate)
+#### Postdoctoral Research Associate
 ### Aug 2014 – May 2020
 #### PhD researcher
 <b>Brown University</b> <br>
