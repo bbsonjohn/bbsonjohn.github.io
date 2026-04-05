@@ -29,7 +29,7 @@ title: Vitae
 
 ## <center><u> Professional Experience </u></center>
 
-### Mar 2021 - Aug 2025
+### Mar 2021 - Aug 2025 
 #### Senior Quantitative Associate, Structured Credit Investment and Portfolio Management Team
 <b>ZAIS Group, LLC</b> <br>
 * Deployed machine learning, statistical, and time-series algorithms to trade over $100 million derivative instruments, 
@@ -40,10 +40,8 @@ studies on the market and securitized products (utilizing Python, R, and Jupyter
 * Presented data visualization from my research for both internal trading teams and stakeholders using Tableau, 
 Python visualization libraries, Excel and PowerPoint.
 
-### Aug 2020 – Mar 2021
-#### Postdoctoral Research Associate
-### Aug 2014 – May 2020
-#### PhD researcher
+### Aug 2020 – Mar 2021   #### Postdoctoral Research Associate
+### Aug 2014 – May 2020   #### PhD researcher
 <b>Brown University</b> <br>
 * Analzyed big data on stars, employing Bayesian and Markov-chain Monte-Carlo method for statistical model selection deployed Python code base. 
 * Simulated particle collider experiment to A/B test theoretical particle physics model, utilizing Monte-Carlo methods in C++ code base. 
