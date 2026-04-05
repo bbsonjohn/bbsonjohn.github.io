@@ -32,12 +32,12 @@ title: Vitae
 ### Mar 2021 - Aug 2025
 #### Senior Quantitative Associate, Structured Credit Investment and Portfolio Management Team
 <b>ZAIS Group, LLC</b> <br>
-Deployed machine learning, statistical, and time-series algorithms to trade over $100 million derivative instruments, 
+* Deployed machine learning, statistical, and time-series algorithms to trade over $100 million derivative instruments, 
 creating impact on billions-dollar funds by generating yield and mitigating risk.
-Managed and created data pipelines from data extraction and features engineering, 
+* Managed and created data pipelines from data extraction and features engineering, 
 to applying supervised and unsupervised algorithms to create new market strategies and carry out exploratory 
 studies on the market and securitized products (utilizing Python, R, and Jupyter notebook). 
-Presented data visualization from my research for both internal trading teams and stakeholders using Tableau, 
+* Presented data visualization from my research for both internal trading teams and stakeholders using Tableau, 
 Python visualization libraries, Excel and PowerPoint.
 
 ### Aug 2020 – Mar 2021
@@ -45,9 +45,9 @@ Python visualization libraries, Excel and PowerPoint.
 ### Aug 2014 – May 2020
 #### PhD researcher
 <b>Brown University</b> <br>
-Analzyed big data on stars, employing Bayesian and Markov-chain Monte-Carlo method for statistical model selection deployed Python code base. 
-Simulated particle collider experiment to A/B test theoretical particle physics model, utilizing Monte-Carlo methods in C++ code base. 
-ypothesis-tested possible dark matter distributions in our galaxy, and proposed methods to parameter search dark matter interaction methods. 
+* Analzyed big data on stars, employing Bayesian and Markov-chain Monte-Carlo method for statistical model selection deployed Python code base. 
+* Simulated particle collider experiment to A/B test theoretical particle physics model, utilizing Monte-Carlo methods in C++ code base. 
+* Hypothesis-tested possible dark matter distributions in our galaxy, and proposed methods to parameter search dark matter interaction methods. 
 
 ### Aug 2012 – May 2014 
 #### Research Assistant
