@@ -29,18 +29,34 @@ title: Vitae
 
 ## <center><u> Professional Experience </u></center>
 
+### Mar 2021 - Aug 2025
+#### Senior Quantitative Associate, Structured Credit Investment and Portfolio Management Team
+<b>ZAIS Group, LLC</b> <br>
+Deployed machine learning, statistical, and time-series algorithms to trade over $100 million derivative instruments, 
+creating impact on billions-dollar funds by generating yield and mitigating risk.
+Managed and created data pipelines from data extraction and features engineering, 
+to applying supervised and unsupervised algorithms to create new market strategies and carry out exploratory 
+studies on the market and securitized products (utilizing Python, R, and Jupyter notebook). 
+Presented data visualization from my research for both internal trading teams and stakeholders using Tableau, 
+Python visualization libraries, Excel and PowerPoint.
+
+### Aug 2020 – Mar 2021
+#### Postdoctoral Research Associate)
 ### Aug 2014 – May 2020
+#### PhD researcher
 <b>Brown University</b> <br>
-Conducted particle phenomenology research on 100 million samples of astrophysics data with Bayesian 
-and Markov-chain Monte-Carlo methods using SQL and Python. Simulated and analyzed a billion samples 
-of particle physics data of a size of several TBs using C++.
+Analzyed big data on stars, employing Bayesian and Markov-chain Monte-Carlo method for statistical model selection deployed Python code base. 
+Simulated particle collider experiment to A/B test theoretical particle physics model, utilizing Monte-Carlo methods in C++ code base. 
+ypothesis-tested possible dark matter distributions in our galaxy, and proposed methods to parameter search dark matter interaction methods. 
 
 ### Aug 2012 – May 2014 
+#### Research Assistant
 <b>Lawrence Berkeley National Laboratory</b> <br>
 Developed a data acquisition firmware for a field programmable gate array to process sensing microchips 
 data at a time-scale of 10 nanoseconds, using VHDL and Verilog as firmware languages.
 
 ### Aug 2010 – May 2014 
+#### Research Assistant
 <b>Chinese University of Hong Kong</b> <br>
 Constructed a muon telescope by programming hardware control using C. Coded a back-end C++ program for 
 data cleaning and signal detection on time series data of the muon telescope’s pixels.
